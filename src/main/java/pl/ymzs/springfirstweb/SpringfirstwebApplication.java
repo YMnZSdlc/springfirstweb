@@ -10,3 +10,5 @@ public class SpringfirstwebApplication {
 		SpringApplication.run(SpringfirstwebApplication.class, args);
 	}
 }
+
+// jdbc:h2:mem:testdb
